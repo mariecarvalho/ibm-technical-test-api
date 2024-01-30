@@ -1,0 +1,11 @@
+{
+  "name": "ibm-technical-test-api",
+  "version": "1.0.0",
+  "description": "technical test api",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariane Carvalho",
+  "license": "ISC"
+}
